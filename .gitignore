@@ -1,0 +1,6 @@
+.vscode/
+pictures/
+*.pyc
+__pycache__/
+attendance.csv
+encodings.pickle
